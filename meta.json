@@ -1,0 +1,14 @@
+{
+	"icon": "",
+	"title": "Widget Gallery",
+	"name": "widget-gallery",
+	"description": "You like widgets right? WELL HAVE THEM ALL, in a neatly organized manner.",
+	"gui": true,
+
+	"main": "main.js",
+	"style": "style.css",
+	"keywords": [
+		"package",
+		"manager"
+	]
+}
